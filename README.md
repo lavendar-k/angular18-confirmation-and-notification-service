@@ -2,6 +2,13 @@
 
 A modern, responsive dialog and alert notification system built with Angular 17 and Tailwind CSS. This project provides reusable components for confirmation dialogs and toast-style notifications.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/96a980e2-359c-4a29-9a75-46cd000e7b25)
+
+![image](https://github.com/user-attachments/assets/8d9cb9f5-9e86-4a5a-91cb-72f60fe2759b)
+
+
 ## Features
 
 ### Confirmation Dialog
